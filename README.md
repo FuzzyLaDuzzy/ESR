@@ -153,4 +153,4 @@ The project consists of the following core components:
 
 ## License
 
-[Your License]
+[Flávio Silva. All rights reserved.]
